@@ -1,0 +1,62 @@
+body {
+    background: rgb(0, 0, 0);
+    font-family: 'Raleway', sans-serif;
+}
+
+header {
+    background: #1e1a13;
+}
+
+.header-iguana h1 {
+    font-weight: 600;
+    font-size: 48px;
+}
+
+.iguana-header img {
+    width: 100%;
+}
+
+.iguana-img {
+    width: 480px;
+}
+
+.iguana-icons-section {
+    background: #1e1a13;
+    height: 320px;
+}
+
+.iguana-icons-section h2 {
+    font-size: 40px;
+    padding-top: 45px;
+    padding-bottom: 30px;
+    margin-bottom: 45px;
+}
+
+.imgs-iguanas {
+    height: 348px;
+    margin-top: 50px;
+}
+
+.iguana-photo img {
+    width: 342px;
+    height: 219px;
+}
+
+.footer-iguana {
+    height: 102px;
+    width: 100%;
+    background: #1e1a13;
+}
+
+.footer-iguana p {
+    padding-top: 42px;
+}
+
+.footer-iguana a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-iguana a:hover {
+    color: #e9be6f;
+}
