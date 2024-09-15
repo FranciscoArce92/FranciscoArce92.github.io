@@ -12,10 +12,12 @@ section .info {
 
 
 nav {
+
     li > a.nav-link {
         font-weight: 500;
     }
 }
+
 
 main {
     width: 100%;
@@ -152,5 +154,10 @@ footer {
         background: #3B5998;
     }
 
+}
+
+/* Portafolio page */
+.carousel-caption {
+    background: rgba(45, 43, 43, 0.525);
     
 }
