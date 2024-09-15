@@ -1,7 +1,15 @@
 body {
     background: rgba(72, 76, 90, 0.922);
-    font-family: 'Handjet', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    scroll-behavior: smooth;
+    width: 100%;
+    
 }
+
+section .info {
+    width: 100%;
+}
+
 
 nav {
     li > a.nav-link {
@@ -10,6 +18,8 @@ nav {
 }
 
 main {
+    width: 100%;
+
     .main-section {
         background: url(../img/fcoarce-bg.jpg) no-repeat;
         background-size: cover;
