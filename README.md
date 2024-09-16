@@ -12,6 +12,8 @@
 
 ## Forks a repositorios de compañeros:
 
+### 1° Fork
+
 > Se le hizo un Fork al siguiente repositorio https://github.com/cespinozaq/harry-footer
 
 ![image](https://github.com/user-attachments/assets/b63e417f-8b59-4dce-a32d-94a25021a936)
@@ -21,4 +23,17 @@
 
 > Aquí está el respectivo pull request:
 ![image](https://github.com/user-attachments/assets/bfd1a224-104f-471c-9a66-78d177437147)
+
+
+### 2° Fork
+
+> Se le hizo fork al siguiente repositorio: https://github.com/danielaguerrau/Cuppon
+![image](https://github.com/user-attachments/assets/b002631d-0dee-4173-b06f-351d9206c5a8)
+
+
+> Se realizaron 3 commits para modificar esta página:
+![image](https://github.com/user-attachments/assets/3de08805-94b9-4bbf-bd43-b2a04427b87b)
+
+> Y el respectivo pull request:
+![image](https://github.com/user-attachments/assets/1916d5d1-dced-4895-ae6f-b0ce89dddaa0)
 
